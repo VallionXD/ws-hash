@@ -2,8 +2,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='ws-hash',
-    version='1.1.0',
+    name='ws_hash',
+    version='1.0.0',
     packages=find_packages(),
     description='A simple yet hash library implemented in Python, featuring both 256-bit and 512-bit hash functions.',
     long_description=open('README.md', encoding='utf-8').read(),
