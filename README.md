@@ -20,7 +20,7 @@ A simple hash library implemented in Python, featuring both 256-bit and 512-bit 
 You can install `ws-hash` by installing the package from the python-package-index (pypi). To do this, run the install command below.
 
 ```python
-pip install ws-hash
+pip install ws_hash
 ```
 
 ## Usage
