@@ -9,7 +9,7 @@ setup(
     long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
     author='VallionXD',
-    author_email='your.email@example.com',
+    author_email='',
     url='https://github.com/VallionXD/ws-hash/',
     classifiers=[
         'Programming Language :: Python :: 3',
